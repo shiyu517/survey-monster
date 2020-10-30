@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828752179581",
+    "firebase_url": "https://surveymonster-anu-88ed8.firebaseio.com",
+    "project_id": "surveymonster-anu-88ed8",
+    "storage_bucket": "surveymonster-anu-88ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828752179581:android:264d7029a625b757489c14",
+        "android_client_info": {
+          "package_name": "com.comp2100.surveymonster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828752179581-n4om192ksdpsfhivv0b7q6v5kb0st0ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.comp2100.surveymonster",
+            "certificate_hash": "4e24e4ea801068d4de5c36d383cccd75bc265777"
+          }
+        },
+        {
+          "client_id": "828752179581-i1a4c8fgdmvmvsn45vv4c1tg8vdj852d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAqDmW8AiFHz8793xjrwSMrekUhmOBcyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828752179581-i1a4c8fgdmvmvsn45vv4c1tg8vdj852d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
