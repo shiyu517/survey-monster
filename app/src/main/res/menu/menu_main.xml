@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.comp2100.surveymonster.MainActivity">
+    <item
+        android:id="@+id/action_Login"
+        android:orderInCategory="100"
+        android:title="Login"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Logout"
+        android:orderInCategory="101"
+        android:title="Log out" />
+    <item
+        android:id="@+id/action_Register"
+        android:orderInCategory="102"
+        android:title="Register" />
+    <item
+        android:id="@+id/manual"
+        android:orderInCategory="103"
+        android:title="Manual" />
+</menu>
